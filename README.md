@@ -50,4 +50,4 @@ Listing some diffusion papers in NLP domain I have read，text generation is mai
 | DDIM                | Oct-20 | Song        | [github](https://github.com/ermongroup/ddim)                 | ICLR 2021                | [Denoising   Diffusion Implicit Models](https://arxiv.org/abs/2010.02502v4) |
 | DDPM                | Jun-20 | Ho          | [github](https://github.com/hojonathanho/diffusion)          | NeurIPS 2020             | [Denoising Diffusion Probabilistic   Models](https://arxiv.org/abs/2006.11239v2) |
 
-<p align=right>(<a href=#DiffusionNLP-paperList>back to top</a>)</p>
+<p align=right>(<a href=# DiffusionNLP-paperList>back to top</a>)</p>
