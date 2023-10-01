@@ -4,7 +4,7 @@ Listing some diffusion papers in NLP domain I have read，text generation is mai
 
 | Model               | Date   | FA          | Code                                                         | Rec                      | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ |
-| XDLM                | Jul-23 | Chen        |                                                              |                          | [XDLM:   Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560v1) |
+| XDLM                | Jul-23 | Chen        |                                                              |                          | [XDLM:   Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560v2) |
 | PLANNER             | Jun-23 | Zhang       |                                                              |                          | [PLANNER: Generating Diversified   Paragraph via Latent Language Diffusion Model](https://arxiv.org/abs/2306.02531v1) |
 | PoetryDiffusion     | Jun-23 | Hu          |                                                              |                          | [PoetryDiffusion:   Towards Joint Semantic and Metrical Manipulation in Poetry Generation](https://arxiv.org/abs/2306.08456v1) |
 | DiffuDetox          | Jun-23 | Floto       | [github](https://github.com/D3Mlab/diffu-detox)                | ACL 2023  Findings       | [DiffuDetox: A Mixed Diffusion Model   for Text Detoxification](https://arxiv.org/abs/2306.08505v1) |
