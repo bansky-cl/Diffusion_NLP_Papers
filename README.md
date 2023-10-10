@@ -2,7 +2,7 @@
 
 Listing some diffusion papers in NLP domain I have read，text generation is main，table will continue to be updated. [UPDATE: Official article sources where possible]
 
-| Model               | Date[m-y]| FA          | Code                                                         | Rec                                                          | Paper                                                        |
+| Model               | Date[m-y] | FA          | Code                                                         | Rec                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | DiffuSeq-v2         | Oct-23 | Gong        | [github](https://github.com/Shark-NLP/DiffuSeq)              |                                                              | [DiffuSeq-v2: Bridging Discrete and   Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793v1) |
 | Diffusionllm        | Aug-23 | Ye          | [github](https://github.com/yegcjs/diffusionllm)             |                                                              | [Diffusion Language Models Can Perform   Many Tasks with Scaling and Instruction-Finetuning](https://arxiv.org/abs/2308.12219) |
