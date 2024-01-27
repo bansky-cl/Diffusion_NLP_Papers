@@ -1,6 +1,6 @@
 ## DiffusionInNlp_PaperList
 
-Listing some diffusion papers in NLP domain I have read，text generation is main，table will continue to be updated. 
+Listing some diffusion papers in NLP domain I have read, text generation is main, table will continue to be updated. 
 
 Date: arxiv or first e-print date. FA = First author. Rec = Accepted at ... . Paper: Arxiv or Official link.
 
