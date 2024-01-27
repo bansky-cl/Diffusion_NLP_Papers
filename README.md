@@ -69,5 +69,5 @@ If you find any inaccuracies or have additional information, you can contact the
 | DDPM                | Jun-20 | Ho          | [github](https://github.com/hojonathanho/diffusion)          | NeurIPS 2020                                                 | [Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) |
 
 <div align="right">
-    <b><a href="# ">↥ back to top</a></b>
+    <b><a href="# DiffusionInNlp_PaperList">↥ back to top</a></b>
 </div>
