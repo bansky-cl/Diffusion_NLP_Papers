@@ -1,4 +1,4 @@
-## DiffusionInNlp_PaperList
+# DiffusionInNlp_PaperList
 
 Date = arxiv or first e-print date. FA = First author. Rec = Accepted at ... . Paper = Arxiv or Official link.
 
