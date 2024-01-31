@@ -4,10 +4,11 @@ Date = arxiv or first e-print date. FA = First author. Rec = Accepted at ... . P
 
 If you find any inaccuracies or have additional information, you can contact the author.
 
-**[Last updated on Jan 27, 2024]** 
+**[Last updated on Jan 31, 2024]** 
 
 | Model               | Date[m-y] | FA          | Code                                                         | Rec                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| AR2Diff | Jan-24 | Han |  |  | [Transfer Learning for Text Diffusion Models](https://arxiv.org/pdf/2401.17181v1.pdf) |
 | ROIC-DM | Jan-24 | Yuan |  |  | [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/pdf/2401.03514v2.pdf) |
 | CodeFusion | Nov-23 | Singh | [github](https://github.com/microsoft/prose-benchmarks/tree/main/CodeFusion) | EMNLP 2023 | [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://aclanthology.org/2023.emnlp-main.716.pdf) |
 | DWGF | Oct-23 | Shi | [github](https://github.com/yibai-shi/DWGF) | EMNLP 2023 | [A Diffusion Weighted Graph Framework for New Intent Discovery](https://aclanthology.org/2023.emnlp-main.499.pdf) |
