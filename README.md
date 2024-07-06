@@ -8,10 +8,14 @@
 - Code = Official github or unofficial implementation, maybe is empty at the moment.
 - Paperlink = Arxiv or official pdf/abs link.
 
-## [Last updated: June 4, 2024]
+## [Last updated: July 6, 2024]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|  | 2024.4 | Zhang | [github](https://github.com/y0mingzhang/diffuse-distributions) |  | [Forcing Diffuse Distributions out of Language Models](https://arxiv.org/abs/2404.10859) |
+| RADD | 2024.6 | Ou |  |  | [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) |
+| MDLM | 2024.6 | Sahoo | [github](https://github.com/kuleshov-group/mdlm) |  | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) |
+|  | 2024.7 |  |  | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=iLhpEOXBdZ) | Discrete Diffusion Language Model for Long Text Summarization |
 |  | 2024.6  | Deschenaux  |                                                              |                                                              | [Promises, Outlooks and Challenges of Diffusion Language Modeling](https://arxiv.org/abs/2406.11473v1) |
 | DIFFGLAT | 2024.6 | Qian |  | NAACL 2024 | [Diffusion Glancing Transformer for Parallel Sequence-to-Sequence Learning](https://aclanthology.org/2024.naacl-long.271) |
 | P3Sum | 2024.6 | Liu | [null](https://github.com/lyh6560new/P3Sum) | NAACL 2024 | [P3Sum: Preserving Author’s Perspective in News Summarization with Diffusion Language Models](https://aclanthology.org/2024.naacl-long.119) |
