@@ -2,13 +2,12 @@
 
 **Key information in this table:**
 
-$$\begin{aligned} Model &= Model's name or shorthand. \\
-Date &= Arxiv or other first E-print  release date. \\
-Author &= First author's name.\\
-Accepted &= Accepted at a famous proceeding or journal.\\
-Code &= Official Github or unofficial implementation, maybe is empty at the moment.\\
-Paperlink &= Arxiv or official pdf/abs link.
-\end{aligned}$$
+- Model = Model's name or shorthand.
+- Date = Arxiv or other first E-print  release date.
+- Author = First author's name.
+- Accepted &= Accepted at a famous proceeding or journal.
+- Code = Official Github or unofficial implementation, maybe is empty at the moment.
+- Paperlink = Arxiv or official pdf/abs link.
 
 ## [Last updated: July 7, 2024]
 
