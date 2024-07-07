@@ -1,17 +1,22 @@
 ## Diffusion_in_NLP_Papers
 
-**Key information in this table**
-- Model = Model's name or shorthand.
-- Date = Arxiv or other first e-print release date. 
-- Author = First author's name.
-- Accepted = Accepted at a famous proceeding or journal.
-- Code = Official github or unofficial implementation, maybe is empty at the moment.
-- Paperlink = Arxiv or official pdf/abs link.
+**Key information in this table:**
 
-## [Last updated: July 6, 2024]
+$$\begin{aligned} Model &= Model's~~name~~or~~shorthand. \\
+Date &= Arxiv~~or~~other~~first~~E-print ~~release~~date. \\
+Author &= First~~author's~~name.\\
+Accepted &= Accepted~~at~~a~~famous~~proceeding~~or~~journal.\\
+Code &= Official~~Github~~or~~unofficial~~implementation,~~maybe~~is~~empty~~at~~the~~moment.\\
+Paperlink &= Arxiv~~or~~official~~pdf/abs~~link.
+\end{aligned}$$
+
+## [Last updated: July 7, 2024]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|  | 2024.7 | Lovelace |  | ACL 2024 Findings | Diffusion Guided Language Modeling |
+|  | 2024.7 | Zhu |  | ACL 2024 Findings | Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction |
+| DiffusPoll | 2024.7 | Cheng |  | ACL 2024 Findings | DiffusPoll: Conditional Text Diffusion Model for Poll Generation |
 |  | 2024.4 | Zhang | [github](https://github.com/y0mingzhang/diffuse-distributions) |  | [Forcing Diffuse Distributions out of Language Models](https://arxiv.org/abs/2404.10859) |
 | RADD | 2024.6 | Ou |  |  | [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) |
 | MDLM | 2024.6 | Sahoo | [github](https://github.com/kuleshov-group/mdlm) |  | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) |
@@ -22,10 +27,10 @@
 | DiffusionDialog     | 2024.4    | Xiang       |                                                              | LREC-COLING 2024                                             | [DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space](https://aclanthology.org/2024.lrec-main.440/) |
 | LDP                 | 2024.4    | Zou         | [github](https://github.com/NIL-zhuang/ld4pg)                | [Submitted to ACL ARR 2024 Feb](https://openreview.net/forum?id=xr_ueWk3R54) | [Enforcing Paraphrase Generation via Controllable Latent Diffusion](https://arxiv.org/pdf/2404.08938) |
 | LanguageFlow | 2024.3    | Zhang       |                                                              | NAACL 2024 | [LanguageFlow: Advancing Diffusion Language Generation with Probabilistic Flows](https://aclanthology.org/2024.naacl-long.215) |
-| FlowSeq             | 2024.3    | Hu          |                                                              | EACL  2024 short                                             | [Flow Matching for Conditional Text Generation in a Few Sampling Steps](https://aclanthology.org/2024.eacl-short.33/) |
+| FlowSeq             | 2024.3    | Hu          |                                                              | EACL  2024                                             | [Flow Matching for Conditional Text Generation in a Few Sampling Steps](https://aclanthology.org/2024.eacl-short.33/) |
 | IPED                | 2024.3    | Zhao        | [null](https://github.com/girlsuuu/IPED)                     | NAACL  2024                                                  | [IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model ](https://aclanthology.org/2024.naacl-long.114) |
 | TEncDM              | 2024.2    | Shabalin    |                                                              | submitted to ACL 2024 | [TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings](https://arxiv.org/abs/2402.19097v1) |
-| DiffuCOMET          | 2024.2    | Gao         |                                                              | [ARR 2024 Feb](https://openreview.net/forum?id=V4SYFARLrzd) | [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011v1) |
+| DiffuCOMET          | 2024.2    | Gao         |                                                              | ACL 2024 | [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011v1) |
 | DiffusionABSA       | 2024.2    | Liu         | [github](https://github.com/Qlb6x/DiffusionABSA)             | LREC-COLING  2024                                            | [Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models](https://arxiv.org/abs/2402.15289v1) |
 | TREC                | 2024.2    | Liu         |                                                              | AAAI  2024                                                   | [Text Diffusion   with Reinforced Conditioning](https://ojs.aaai.org/index.php/AAAI/article/view/29316) |
 | Thinker-DDM         | 2024.2    | Nachmani    |                                                              |                                                              | [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for   Machine Translation](https://arxiv.org/abs/2402.10699v1) |
