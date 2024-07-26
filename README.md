@@ -13,8 +13,9 @@
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| SEDD | 2023.10 | Lou | [github](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) | ICML 2024 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) |
 |  | 2024.7 | Lovelace |  | ACL 2024 | Diffusion Guided Language Modeling |
-|  | 2024.7 | Zhu |  | ACL 2024 | Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction |
+| GDP | 2024.7 | Zhu |  | ACL 2024 | Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction |
 | DiffusPoll | 2024.7 | Cheng |  | ACL 2024 | DiffusPoll: Conditional Text Diffusion Model for Poll Generation |
 |  | 2024.4 | Zhang | [github](https://github.com/y0mingzhang/diffuse-distributions) |  | [Forcing Diffuse Distributions out of Language Models](https://arxiv.org/abs/2404.10859) |
 | RADD | 2024.6 | Ou |  |  | [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) |
