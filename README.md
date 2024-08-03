@@ -9,7 +9,7 @@
 - Code = Official Github or unofficial implementation, maybe is empty at the moment.
 - Paperlink = Arxiv or official pdf/abs link.
 
-## [Last updated: July 26, 2024]
+## [Last updated: August 3, 2024]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
