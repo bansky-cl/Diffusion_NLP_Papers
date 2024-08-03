@@ -18,7 +18,7 @@
 | GDP | 2024.7 | Zhu |  | ACL 2024 | Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction |
 | DiffusPoll | 2024.7 | Cheng |  | ACL 2024 | DiffusPoll: Conditional Text Diffusion Model for Poll Generation |
 |  | 2024.4 | Zhang | [github](https://github.com/y0mingzhang/diffuse-distributions) |  | [Forcing Diffuse Distributions out of Language Models](https://arxiv.org/abs/2404.10859) |
-| RADD | 2024.6 | Ou |  |  | [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) |
+| RADD | 2024.6 | Ou | [github](https://github.com/ML-GSAI/RADD) |  | [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736v2) |
 | MDLM | 2024.6 | Sahoo | [github](https://github.com/kuleshov-group/mdlm) |  | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) |
 |  | 2024.7 |  |  | [Submitted to ACL ARR 2024 June](https://openreview.net/forum?id=iLhpEOXBdZ) | [Discrete Diffusion Language Model for Long Text Summarization](https://arxiv.org/abs/2407.10998v1) |
 |  | 2024.6  | Deschenaux  |                                                              |                                                              | [Promises, Outlooks and Challenges of Diffusion Language Modeling](https://arxiv.org/abs/2406.11473v2) |
