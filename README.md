@@ -9,14 +9,15 @@
 - Code = Official Github or unofficial implementation, maybe is empty at the moment.
 - Paperlink = Arxiv or official pdf/abs link.
 
-## [Last updated: August 3, 2024]
+## [Last updated: August 13, 2024]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| SpecDiff | 2024.8 | Christopher |  |  | [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636v1) |
 | SEDD | 2023.10 | Lou | [github](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) | ICML 2024 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) |
-|  | 2024.7 | Lovelace |  | ACL 2024 | Diffusion Guided Language Modeling |
-| GDP | 2024.7 | Zhu |  | ACL 2024 | Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction |
-| DiffusPoll | 2024.7 | Cheng |  | ACL 2024 | DiffusPoll: Conditional Text Diffusion Model for Poll Generation |
+|  | 2024.7 | Lovelace | [github](https://github.com/justinlovelace/Diffusion-Guided-LM) | ACL 2024 | [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887/) |
+| GDP | 2024.7 | Zhu | [null](https://github.com/ch11en/GDP) | ACL 2024 | [Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction](https://aclanthology.org/2024.findings-acl.222/) |
+| DiffusPoll | 2024.7 | Cheng | [github](https://anonymous.4open.science/r/DiffusPoll-0F12) | ACL 2024 | [DiffusPoll: Conditional Text Diffusion Model for Poll Generation](https://aclanthology.org/2024.findings-acl.54/) |
 |  | 2024.4 | Zhang | [github](https://github.com/y0mingzhang/diffuse-distributions) |  | [Forcing Diffuse Distributions out of Language Models](https://arxiv.org/abs/2404.10859) |
 | RADD | 2024.6 | Ou | [github](https://github.com/ML-GSAI/RADD) |  | [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736v2) |
 | MDLM | 2024.6 | Sahoo | [github](https://github.com/kuleshov-group/mdlm) |  | [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) |
