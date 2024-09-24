@@ -13,7 +13,10 @@
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ReflectDiffu | 2024.9 | Yuan |  |  | [ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/abs/2409.10289v1) |
+| DiffusionCLS | 2024.9 | Chen | [github](https://github.com/JohnnyChanV/DiffusionCLS) | EMNLP 2024 | [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203) |
+|  | 2024.9 | Liu |  | EMNLP 2024 | Enable Fast Sampling for Seq2Seq Text Diffusion |
+| | 20249.9 | Zheng | |  | [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908v2) |
+| ReflectDiffu | 2024.9 | Yuan |  |  | [ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/abs/2409.10289v2) |
 | SpecDiff | 2024.8 | Christopher |  |  | [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636v2) |
 | SEDD | 2023.10 | Lou | [github](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) | ICML 2024 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) |
 |  | 2024.7 | Lovelace | [github](https://github.com/justinlovelace/Diffusion-Guided-LM) | ACL 2024 | [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887/) |
