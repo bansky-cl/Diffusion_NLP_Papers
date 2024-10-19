@@ -9,10 +9,12 @@
 - Code = Official Github or unofficial implementation, maybe is empty at the moment.
 - Paperlink = Arxiv or official pdf/abs link.
 
-## [Last updated: 9/18, 2024]
+## [Last updated: 10/19, 2024]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Meta-DiffuB | 2024.10 | Chuang | [github](https://github.com/Meta-DiffuB/Meta-DiffuB) |  | [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201) |
+| REPA | 2024.10 | Yu | [github](https://github.com/sihyun-yu/REPA) |  | [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://arxiv.org/abs/2410.06940) |
 | DiffusionCLS | 2024.9 | Chen | [github](https://github.com/JohnnyChanV/DiffusionCLS) | EMNLP 2024 | [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203) |
 |  | 2024.9 | Liu |  | EMNLP 2024 | Enable Fast Sampling for Seq2Seq Text Diffusion |
 | | 20249.9 | Zheng | |  | [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908v2) |
