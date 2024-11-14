@@ -5,21 +5,22 @@
 - Model = Model's name or shorthand.
 - Date = Arxiv or other first E-print  release date.
 - Author = First author's name.
-- Accepted &= Accepted at a famous proceeding or journal.
+- Accepted = Accepted at a famous proceeding or journal.
 - Code = Official Github or unofficial implementation, maybe is empty at the moment.
-- Paperlink = Arxiv or official pdf/abs link.
+- Paperlink = Arxiv or official link.
 
-## [Last updated: 10/27, 2024]
+## [Last updated: 2024-11-14]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| DiffLM | 2024.10 |  |  |  | [DiffLM Controllable Synthetic Data Generation via Diffusion Language Models](https://openreview.net/forum?id=fRmfDqZ2yq) |
+|  | 2024.10 | Ren |  |  | [How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework](https://arxiv.org/abs/2410.03601) |
+| DiffLM | 2024.10 | Zhou |  |  | [DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models](https://arxiv.org/abs/2411.03250) |
 | DiffuLLaMA | 2024.10 | Gong | [github](https://github.com/HKUNLP/DiffuLLaMA) |  | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891v1) |
-| Meta-DiffuB | 2024.10 | Chuang | [github](https://github.com/Meta-DiffuB/Meta-DiffuB) |  | [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201) |
+| Meta-DiffuB | 2024.10 | Chuang | [github](https://github.com/Meta-DiffuB/Meta-DiffuB) | NeurIPS 2024 | [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201) |
 | REPA | 2024.10 | Yu | [github](https://github.com/sihyun-yu/REPA) |  | [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://arxiv.org/abs/2410.06940) |
-| DiffusionCLS | 2024.9 | Chen | [github](https://github.com/JohnnyChanV/DiffusionCLS) | EMNLP 2024 | [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203) |
-|  | 2024.9 | Liu |  | EMNLP 2024 | Enable Fast Sampling for Seq2Seq Text Diffusion |
-| | 20249.9 | Zheng | |  | [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908v2) |
+| DiffusionCLS | 2024.9 | Chen | [github](https://github.com/JohnnyChanV/DiffusionCLS) | EMNLP 2024 | [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://aclanthology.org/2024.emnlp-main.109/) |
+| FMSeq | 2024.9 | Liu | [null](https://github.com/Peacer68/FMSeq) | EMNLP 2024 | [Enable Fast Sampling for Seq2Seq Text Diffusion](https://aclanthology.org/2024.findings-emnlp.497/) |
+| | 20249.9 | Zheng | |  | [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908v) |
 | ReflectDiffu | 2024.9 | Yuan |  |  | [ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/abs/2409.10289v2) |
 | SpecDiff | 2024.8 | Christopher |  |  | [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636v2) |
 | SEDD | 2023.10 | Lou | [github](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) | ICML 2024 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) |
