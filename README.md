@@ -9,20 +9,20 @@
 - Code = Official Github or unofficial implementation, maybe is empty at the moment.
 - Paperlink = Arxiv or official link.
 
-## [Last updated: 2024-11-14]
+## [Last updated: 2025-01-23]
 
 | Model               | Date | Author          | Code                                                         | Accepted                                                          | Paper                                                        |
 | ------------------- | ------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|  | 2024.10 | Ren |  |  | [How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework](https://arxiv.org/abs/2410.03601) |
+|  | 2024.10 | Ren |  | ICLR 2025 | [How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework](https://openreview.net/forum?id=6awxwQEI82) |
 | DiffLM | 2024.10 | Zhou |  |  | [DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models](https://arxiv.org/abs/2411.03250) |
-| DiffuLLaMA | 2024.10 | Gong | [github](https://github.com/HKUNLP/DiffuLLaMA) |  | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891v1) |
-| Meta-DiffuB | 2024.10 | Chuang | [github](https://github.com/Meta-DiffuB/Meta-DiffuB) | NeurIPS 2024 | [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201) |
-| REPA | 2024.10 | Yu | [github](https://github.com/sihyun-yu/REPA) |  | [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://arxiv.org/abs/2410.06940) |
+| DiffuLLaMA | 2024.10 | Gong | [github](https://github.com/HKUNLP/DiffuLLaMA) | ICLR 2025 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://openreview.net/forum?id=j1tSLYKwg8) |
+| Meta-DiffuB | 2024.10 | Chuang | [github](https://github.com/Meta-DiffuB/Meta-DiffuB) | NeurIPS 2024 | [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://openreview.net/forum?id=NTWXVvIXJM) |
+| REPA | 2024.10 | Yu | [github](https://github.com/sihyun-yu/REPA) | ICLR 2025 | [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://openreview.net/forum?id=DJSZGGZYVi) |
 | DiffusionCLS | 2024.9 | Chen | [github](https://github.com/JohnnyChanV/DiffusionCLS) | EMNLP 2024 | [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://aclanthology.org/2024.emnlp-main.109/) |
 | FMSeq | 2024.9 | Liu | [null](https://github.com/Peacer68/FMSeq) | EMNLP 2024 | [Enable Fast Sampling for Seq2Seq Text Diffusion](https://aclanthology.org/2024.findings-emnlp.497/) |
-| | 20249.9 | Zheng | |  | [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908v) |
+| | 20249.9 | Zheng | | ICLR 2025 | [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://openreview.net/forum?id=CTC7CmirNr) |
 | ReflectDiffu | 2024.9 | Yuan |  |  | [ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/abs/2409.10289v2) |
-| SpecDiff | 2024.8 | Christopher |  |  | [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636v2) |
+| SpecDiff | 2024.8 | Christopher |  | NeurIPS 2024 | [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636v2) |
 | SEDD | 2023.10 | Lou | [github](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion) | ICML 2024 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://proceedings.mlr.press/v235/lou24a.html) |
 |  | 2024.7 | Lovelace | [github](https://github.com/justinlovelace/Diffusion-Guided-LM) | ACL 2024 | [Diffusion Guided Language Modeling](https://aclanthology.org/2024.findings-acl.887/) |
 | GDP | 2024.7 | Zhu | [null](https://github.com/ch11en/GDP) | ACL 2024 | [Pinpointing Diffusion Grid Noise to Enhance Aspect Sentiment Quad Prediction](https://aclanthology.org/2024.findings-acl.222/) |
@@ -45,8 +45,8 @@
 | TREC                | 2024.2    | Liu         |                                                              | AAAI  2024                                                   | [Text Diffusionwith Reinforced Conditioning](https://ojs.aaai.org/index.php/AAAI/article/view/29316) |
 | Thinker-DDM         | 2024.2    | Nachmani    |                                                              |                                                              | [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for   Machine Translation](https://arxiv.org/abs/2402.10699v1) |
 | QE-CDLM             | 2024.2    | Kang        | [github](https://github.com/ChengKang520/Q-Controllable-DLM) |  | [Quantized Embedding Vectors for Controllable Diffusion Language Models](https://arxiv.org/abs/2402.10107) |
-| DoT                 | 2024.2    | Ye          | [github](https://github.com/HKUNLP/diffusion-of-thoughts)    |                                                              | [Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) |
-| AR2Diff             | 2024.1    | Han         |                                                              |                                                              | [Transfer Learning for Text Diffusion Models](https://arxiv.org/abs/2401.17181) |
+| DoT                 | 2024.2    | Ye          | [github](https://github.com/HKUNLP/diffusion-of-thoughts)    | NeurIPS 2024 | [Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://openreview.net/forum?id=G0v0TxX01N) |
+| AR2Diff             | 2024.1    | Han         |                                                              | NeurIPS 2024 | [Transfer Learning for Text Diffusion Models](https://openreview.net/forum?id=6emETARnWi) |
 | ROIC-DM             | 2024.1    | Yuan        |                                                              |                                                              | [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514) |
 | LDSeq | 2023.12 | Ding | | CSAI 2023 | [LDSeq: Latent Diffusion Models for Sequence to Sequence Text Generation](https://dl.acm.org/doi/10.1145/3638584.3638617) |
 | CodeFusion          | 2023.12    | Singh       | [github](https://github.com/microsoft/prose-benchmarks/tree/main/CodeFusion) | EMNLP 2023                                                   | [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://aclanthology.org/2023.emnlp-main.716.pdf) |
